@@ -1,9 +1,9 @@
 # Usecn Sentinel
 
-[![Release](https://img.shields.io/github/v/release/shingle-coder/usecn-sentinel?label=release)](https://github.com/shingle-coder/usecn-sentinel/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows%20x64-1F5EFF)](https://github.com/shingle-coder/usecn-sentinel/releases)
-[![Downloads](https://img.shields.io/github/downloads/shingle-coder/usecn-sentinel/total)](https://github.com/shingle-coder/usecn-sentinel/releases)
-![License](https://img.shields.io/badge/license-MIT-2E7D32)
+[![release](docs/badges/release.svg)](https://github.com/shingle-coder/usecn-sentinel/releases)
+[![platform](docs/badges/platform.svg)](https://github.com/shingle-coder/usecn-sentinel/releases)
+[![status](docs/badges/status.svg)](https://github.com/shingle-coder/usecn-sentinel/releases)
+![license](docs/badges/license.svg)
 
 面向 AI 资源目录运营的站点巡检桌面工具：批量检测收录站点的可达性、跳转链、页面标题与描述，输出可归档的 JSON / CSV 报告。
 
