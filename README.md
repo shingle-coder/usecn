@@ -1,8 +1,15 @@
 # Usecn Sentinel
 
+[![Release](https://img.shields.io/github/v/release/shingle-coder/usecn-sentinel?label=release)](https://github.com/shingle-coder/usecn-sentinel/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows%20x64-1F5EFF)](https://github.com/shingle-coder/usecn-sentinel/releases)
+[![Downloads](https://img.shields.io/github/downloads/shingle-coder/usecn-sentinel/total)](https://github.com/shingle-coder/usecn-sentinel/releases)
+![License](https://img.shields.io/badge/license-MIT-2E7D32)
+
 面向 AI 资源目录运营的站点巡检桌面工具：批量检测收录站点的可达性、跳转链、页面标题与描述，输出可归档的 JSON / CSV 报告。
 
 本仓库只发布 Windows 构建产物，源码在独立工程中维护。
+
+![Usecn Sentinel 界面](docs/ui-screenshot.png)
 
 ## 下载
 
