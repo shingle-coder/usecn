@@ -13,13 +13,13 @@
 
 ## 下载
 
-最新版本：[Usecn Sentinel 0.2.0](https://github.com/shingle-coder/usecn-sentinel/releases/tag/desktop-v0.2.0)
+最新版本：[Usecn Sentinel 0.6.0](https://github.com/shingle-coder/usecn-sentinel/releases/tag/desktop-v0.6.0)
 
 | 文件 | 说明 |
 |---|---|
-| [UsecnSentinel-Setup-0.2.0.exe](https://github.com/shingle-coder/usecn-sentinel/releases/download/desktop-v0.2.0/UsecnSentinel-Setup-0.2.0.exe) | NSIS 安装包，用户级安装，无需管理员权限 |
-| [UsecnSentinel-0.2.0-windows-x64.zip](https://github.com/shingle-coder/usecn-sentinel/releases/download/desktop-v0.2.0/UsecnSentinel-0.2.0-windows-x64.zip) | 免安装版，解压后双击 `UsecnSentinel.exe` |
-| [SHA256SUMS.txt](https://github.com/shingle-coder/usecn-sentinel/releases/download/desktop-v0.2.0/SHA256SUMS.txt) | 上述两个文件的 SHA-256 |
+| [UsecnSentinel-Setup-0.6.0.exe](https://github.com/shingle-coder/usecn-sentinel/releases/download/desktop-v0.6.0/UsecnSentinel-Setup-0.6.0.exe) | NSIS 安装包，用户级安装，无需管理员权限 |
+| [UsecnSentinel-0.6.0-windows-x64.zip](https://github.com/shingle-coder/usecn-sentinel/releases/download/desktop-v0.6.0/UsecnSentinel-0.6.0-windows-x64.zip) | 免安装版，解压后双击 `UsecnSentinel.exe` |
+| [SHA256SUMS.txt](https://github.com/shingle-coder/usecn-sentinel/releases/download/desktop-v0.6.0/SHA256SUMS.txt) | 上述两个文件的 SHA-256 |
 
 > **未做代码签名**：Windows 可能提示「未知发布者」，请先核对 SHA-256 再运行。
 
@@ -47,7 +47,7 @@
 ## 校验
 
 ```powershell
-Get-FileHash .\UsecnSentinel-Setup-0.2.0.exe -Algorithm SHA256
+Get-FileHash .\UsecnSentinel-Setup-0.6.0.exe -Algorithm SHA256
 ```
 
 输出应与 `SHA256SUMS.txt` 中对应行一致。
